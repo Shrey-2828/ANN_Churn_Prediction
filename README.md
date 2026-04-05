@@ -4,3 +4,4 @@
 <h3>some exploration done on data before putting into ANN</h3>
 <h3>training ann start</h3>
 hiii
+wow
